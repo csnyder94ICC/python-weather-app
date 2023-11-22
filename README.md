@@ -1,4 +1,4 @@
-# Python Weather App
+# Weather App
 
 ## By Christopher Snyder
 
@@ -26,7 +26,7 @@ This Python application allows you to enter a city and country of your choice to
 
 To use this application on your local machine: clone the repository, install dependencies and run this command from Git Bash:
 ```
-python python-weather-app.py
+python weather-app.py
 ```
 
 ## Support
