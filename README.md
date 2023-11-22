@@ -39,4 +39,5 @@ For more information on the OpenWeatherMap API: https://openweathermap.org/guide
 
 ## View
 
-ADD THIS
+![weather-app-test](https://github.com/csnyder94ICC/weather-app/assets/143426001/4060da0e-0f12-4fdb-9578-7dcb70fbee17)
+
